@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>JsonValueTesterLib</groupId>
   <artifactId>json-value-tester-lib</artifactId>
-  <version>1.1.0</version>
+  <version>1.1.2</version>
   <packaging>jar</packaging>
   <name>JsonValueTesterLib</name>
   <properties>
