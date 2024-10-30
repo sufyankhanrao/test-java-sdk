@@ -97,14 +97,14 @@ In Eclipse, for running the tests do the following:
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
 | Parameter | Type | Description |
 |  --- | --- | --- |
 | `environment` | `Environment` | The API environment. <br> **Default: `Environment.TESTING`** |
-| `httpClientConfig` | [`Consumer<HttpClientConfiguration.Builder>`](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-client-configuration-builder.md) | Set up Http Client Configuration instance. |
+| `httpClientConfig` | [`Consumer<HttpClientConfiguration.Builder>`](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-client-configuration-builder.md) | Set up Http Client Configuration instance. |
 
 The API client can be initialized as follows:
 
@@ -129,21 +129,21 @@ The SDK can be configured to use a different environment for making API calls. A
 
 ## List of APIs
 
-* [Json Obj](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/controllers/json-obj.md)
-* [Json Val](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/controllers/json-val.md)
+* [Json Obj](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/controllers/json-obj.md)
+* [Json Val](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/controllers/json-val.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/utility-classes.md)
-* [HttpRequest](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-request.md)
-* [HttpResponse](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-response.md)
-* [HttpStringResponse](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-string-response.md)
-* [HttpContext](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-context.md)
-* [HttpBodyRequest](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-body-request.md)
-* [HttpCallback Interface](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-callback-interface.md)
-* [Headers](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/headers.md)
-* [ApiException](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/api-exception.md)
-* [Configuration Interface](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/configuration-interface.md)
-* [HttpClientConfiguration](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-client-configuration.md)
-* [HttpClientConfiguration.Builder](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.2/doc/http-client-configuration-builder.md)
+* [Utility Classes](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/utility-classes.md)
+* [HttpRequest](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-request.md)
+* [HttpResponse](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-response.md)
+* [HttpStringResponse](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-string-response.md)
+* [HttpContext](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-context.md)
+* [HttpBodyRequest](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-body-request.md)
+* [HttpCallback Interface](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-callback-interface.md)
+* [Headers](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/headers.md)
+* [ApiException](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/api-exception.md)
+* [Configuration Interface](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/configuration-interface.md)
+* [HttpClientConfiguration](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-client-configuration.md)
+* [HttpClientConfiguration.Builder](https://www.github.com/sufyankhanrao/test-java-sdk/tree/1.1.3/doc/http-client-configuration-builder.md)
 
